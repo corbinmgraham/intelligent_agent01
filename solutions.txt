@@ -1,0 +1,175 @@
+File: Part2/S4.txt
+Algorithm: bfs
+Total nodes generated: 483566
+Total time taken: 11 sec 467765 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S4.txt
+Algorithm: ids
+Total nodes generated: 1883
+Total time taken: 0 sec 012913 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S4.txt
+Algorithm: h1
+Total nodes generated: 4817
+Total time taken: 0 sec 024879 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S4.txt
+Algorithm: h2
+Total nodes generated: 6055
+Total time taken: 0 sec 047192 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S4.txt
+Algorithm: h3
+Total nodes generated: 6276
+Total time taken: 0 sec 066413 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S5.txt
+Algorithm: bfs
+Total nodes generated: 21645
+Total time taken: 0 sec 111450 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S5.txt
+Algorithm: ids
+Total nodes generated: 7970
+Total time taken: 0 sec 077416 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S5.txt
+Algorithm: h1
+Total nodes generated: 6391
+Total time taken: 0 sec 064875 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S5.txt
+Algorithm: h2
+Total nodes generated: 10227
+Total time taken: 0 sec 094652 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S5.txt
+Algorithm: h3
+Total nodes generated: 17907
+Total time taken: 0 sec 178037 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S1.txt
+Algorithm: bfs
+Total nodes generated: 26695
+Total time taken: 0 sec 120860 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S1.txt
+Algorithm: ids
+Total nodes generated: 8408
+Total time taken: 0 sec 077721 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S1.txt
+Algorithm: h1
+Total nodes generated: 14650
+Total time taken: 0 sec 154405 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S1.txt
+Algorithm: h2
+Total nodes generated: 21022
+Total time taken: 0 sec 242073 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S1.txt
+Algorithm: h3
+Total nodes generated: 5138
+Total time taken: 0 sec 064157 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S2.txt
+Algorithm: bfs
+Total nodes generated: 98049
+Total time taken: 0 sec 493364 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S2.txt
+Algorithm: ids
+Total nodes generated: 16765
+Total time taken: 0 sec 168823 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S2.txt
+Algorithm: h1
+Total nodes generated: 12494
+Total time taken: 0 sec 146820 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S2.txt
+Algorithm: h2
+Total nodes generated: 11347
+Total time taken: 0 sec 173130 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S2.txt
+Algorithm: h3
+Total nodes generated: 45175
+Total time taken: 0 sec 549528 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S3.txt
+Algorithm: bfs
+Total nodes generated: 83361
+Total time taken: 0 sec 328711 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S3.txt
+Algorithm: ids
+Total nodes generated: 2969
+Total time taken: 0 sec 034584 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S3.txt
+Algorithm: h1
+Total nodes generated: 41927
+Total time taken: 0 sec 429081 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S3.txt
+Algorithm: h2
+Total nodes generated: 32092
+Total time taken: 0 sec 365955 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
+File: Part2/S3.txt
+Algorithm: h3
+Total nodes generated: 15566
+Total time taken: 0 sec 186766 microSec.
+Path length: 30
+Path: ULDDRRUULDLDRRUULDLDRRUULLDDRR
+
